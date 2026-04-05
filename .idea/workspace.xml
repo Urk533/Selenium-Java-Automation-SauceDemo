@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1eadc6a4-b8e2-4889-b4a2-7ab41aad71eb" name="Changes" comment="Initial commit - Selenium Automation Project Using Java" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Urk533"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Urk533/Selenium-Java-Automation-SauceDemo.git",
+    "accountId": "19192af8-e05e-44f2-8e5e-d31f82865f2f"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="3BvxEdzV5KvEVuolHkp2dW16dyk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.CheckOutPageTests.checkoutWithEmptyFieldsTest.executor": "Run",
+    "TestNG.CheckOutPageTests.completeCheckoutTest.executor": "Run",
+    "TestNG.CheckOutPageTests.executor": "Run",
+    "TestNG.InventoryPageTests.executor": "Run",
+    "TestNG.InventoryPageTests.verifyAddItemsAndNavigateToCart.executor": "Run",
+    "TestNG.InventoryPageTests.verifyCartBadgeCount.executor": "Run",
+    "TestNG.InventoryPageTests.verifyFilterByNameDescending.executor": "Run",
+    "TestNG.InventoryPageTests.verifyFilterByPriceLowToHigh.executor": "Run",
+    "TestNG.InventoryPageTests.verifyRemoveItemFromCart.executor": "Run",
+    "TestNG.LoginPageTests.emptyLoginTest.executor": "Run",
+    "TestNG.LoginPageTests.executor": "Run",
+    "TestNG.LoginPageTests.invalidUserLoginTest.executor": "Run",
+    "TestNG.LoginPageTests.validUserLoginTest.executor": "Run",
+    "TestNG.LoginPageTests.verifyDirectAccessWithoutLogin.executor": "Run",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Mine Folder/Job/Projects/Selenium Java Automation Project/SauceDemoSeleniumJavaAutomationProject",
+    "onboarding.tips.debug.path": "D:/Mine Folder/Job/Projects/Selenium Java Automation Project/SauceLabsSeleniumJavaAutomationProject/src/main/java/org/example/Main.java"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.LoginPageTests">
+    <configuration name="LoginPageTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SauceDemoSeleniumJavaAutomationProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.LoginPageTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPageTests.emptyLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SauceDemoSeleniumJavaAutomationProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.LoginPageTests" />
+      <option name="METHOD_NAME" value="emptyLoginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPageTests.invalidUserLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SauceDemoSeleniumJavaAutomationProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.LoginPageTests" />
+      <option name="METHOD_NAME" value="invalidUserLoginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPageTests.validUserLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SauceDemoSeleniumJavaAutomationProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.LoginPageTests" />
+      <option name="METHOD_NAME" value="validUserLoginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPageTests.verifyDirectAccessWithoutLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SauceDemoSeleniumJavaAutomationProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.LoginPageTests" />
+      <option name="METHOD_NAME" value="verifyDirectAccessWithoutLogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LoginPageTests" />
+        <item itemvalue="TestNG.LoginPageTests.verifyDirectAccessWithoutLogin" />
+        <item itemvalue="TestNG.LoginPageTests.emptyLoginTest" />
+        <item itemvalue="TestNG.LoginPageTests.validUserLoginTest" />
+        <item itemvalue="TestNG.LoginPageTests.invalidUserLoginTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1eadc6a4-b8e2-4889-b4a2-7ab41aad71eb" name="Changes" comment="" />
+      <created>1775383236761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775383236761</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit - Selenium Automation Project Using Java">
+      <option name="closed" value="true" />
+      <created>1775430813953</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1775430813953</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit - Selenium Automation Project Using Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit - Selenium Automation Project Using Java" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
